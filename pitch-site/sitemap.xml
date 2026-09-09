@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- swensondigital.com is registered but not yet connected to the Cloudflare
-     Worker (still at swenson-digital.graydragon2.workers.dev). This file is
-     accurate once DNS is pointed and the domain goes live. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.swensondigital.com/</loc>
