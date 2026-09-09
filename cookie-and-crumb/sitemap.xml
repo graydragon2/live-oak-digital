@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  TODO: replace www.example.com below with the real live domain for this
-  client, matching CONFIG.seo.siteUrl in config.js. This file is read
-  directly by search engines and can't pull from config.js automatically.
+  Points at the interim Cloudflare Workers URL — Rachel doesn't have her
+  own domain yet. Once she registers one, update this, robots.txt, every
+  page's canonical/og:url/JSON-LD url, and CONFIG.seo.siteUrl in config.js.
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://cookieandcrumb.graydragon2.workers.dev/</loc>
   </url>
   <url>
-    <loc>https://www.example.com/services.html</loc>
+    <loc>https://cookieandcrumb.graydragon2.workers.dev/services.html</loc>
   </url>
   <url>
-    <loc>https://www.example.com/about.html</loc>
+    <loc>https://cookieandcrumb.graydragon2.workers.dev/about.html</loc>
   </url>
   <url>
-    <loc>https://www.example.com/reviews.html</loc>
+    <loc>https://cookieandcrumb.graydragon2.workers.dev/reviews.html</loc>
   </url>
   <url>
-    <loc>https://www.example.com/contact.html</loc>
+    <loc>https://cookieandcrumb.graydragon2.workers.dev/contact.html</loc>
   </url>
 </urlset>

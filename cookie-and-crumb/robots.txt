@@ -1,8 +1,10 @@
-# TODO: replace www.example.com below with the real live domain for this
-# client, matching CONFIG.seo.siteUrl in config.js. This file is read
-# directly by search engines and can't pull from config.js automatically.
+# Points at the interim Cloudflare Workers URL — Rachel doesn't have her
+# own domain yet. Once she registers one, update this, sitemap.xml, every
+# page's canonical/og:url/JSON-LD url, and CONFIG.seo.siteUrl in config.js
+# (this file can't pull from config.js automatically — search engines read
+# it directly).
 
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://cookieandcrumb.graydragon2.workers.dev/sitemap.xml

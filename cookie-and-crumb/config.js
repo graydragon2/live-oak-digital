@@ -209,7 +209,7 @@ const CONFIG = {
 
   // ---- SEO -----------------------------------------------------------------
   seo: {
-    siteUrl: "https://www.example.com",
+    siteUrl: "https://cookieandcrumb.graydragon2.workers.dev",
   },
 
   // ---- Swenson Digital credit ---------------------------------------------
