@@ -215,6 +215,6 @@ const CONFIG = {
   // ---- Swenson Digital credit ---------------------------------------------
   builtBy: {
     label: "Website by Swenson Digital",
-    url: "https://www.swensondigital.co",
+    url: "https://www.swensondigital.com",
   },
 };

@@ -177,6 +177,6 @@ const CONFIG = {
   // remove it for a client who'd rather not have it.
   builtBy: {
     label: "Website by Swenson Digital",
-    url: "https://www.swensondigital.co",
+    url: "https://www.swensondigital.com",
   },
 };

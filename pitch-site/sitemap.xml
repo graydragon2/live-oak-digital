@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: confirm swensondigital.co is the final domain once it's registered -->
+<!-- swensondigital.com is registered but not yet connected to the Cloudflare
+     Worker (still at swenson-digital.graydragon2.workers.dev). This file is
+     accurate once DNS is pointed and the domain goes live. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.swensondigital.co/</loc>
+    <loc>https://www.swensondigital.com/</loc>
   </url>
   <url>
-    <loc>https://www.swensondigital.co/services.html</loc>
+    <loc>https://www.swensondigital.com/services.html</loc>
   </url>
   <url>
-    <loc>https://www.swensondigital.co/pricing.html</loc>
+    <loc>https://www.swensondigital.com/pricing.html</loc>
   </url>
   <url>
-    <loc>https://www.swensondigital.co/about.html</loc>
+    <loc>https://www.swensondigital.com/about.html</loc>
   </url>
   <url>
-    <loc>https://www.swensondigital.co/faq.html</loc>
+    <loc>https://www.swensondigital.com/faq.html</loc>
   </url>
   <url>
-    <loc>https://www.swensondigital.co/contact.html</loc>
+    <loc>https://www.swensondigital.com/contact.html</loc>
   </url>
 </urlset>
