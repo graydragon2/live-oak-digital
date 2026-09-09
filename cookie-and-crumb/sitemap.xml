@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Points at the interim Cloudflare Workers URL — Rachel doesn't have her
-  own domain yet. Once she registers one, update this, robots.txt, every
-  page's canonical/og:url/JSON-LD url, and CONFIG.seo.siteUrl in config.js.
+  Emptied out — Rachel doesn't have her own domain yet, so there are no
+  URLs worth publishing here (the interim Cloudflare Workers address is
+  deliberately not being pointed at as canonical; see config.js's
+  CONFIG.seo.siteUrl and robots.txt for the same note). Once she registers
+  a real domain, refill this with one <url><loc> entry per page:
+  index.html, services.html, about.html, reviews.html, contact.html —
+  each as https://<realdomain>/<page>.
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://cookieandcrumb.graydragon2.workers.dev/</loc>
-  </url>
-  <url>
-    <loc>https://cookieandcrumb.graydragon2.workers.dev/services.html</loc>
-  </url>
-  <url>
-    <loc>https://cookieandcrumb.graydragon2.workers.dev/about.html</loc>
-  </url>
-  <url>
-    <loc>https://cookieandcrumb.graydragon2.workers.dev/reviews.html</loc>
-  </url>
-  <url>
-    <loc>https://cookieandcrumb.graydragon2.workers.dev/contact.html</loc>
-  </url>
 </urlset>

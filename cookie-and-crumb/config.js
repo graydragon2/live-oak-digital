@@ -208,8 +208,12 @@ const CONFIG = {
   ],
 
   // ---- SEO -----------------------------------------------------------------
+  // No real domain yet — Rachel hasn't registered one. Deliberately left
+  // blank rather than pointed at the workers.dev URL, so nothing tells
+  // Google (or a social-share card) to treat that address as canonical.
+  // Fill in once she has a real domain.
   seo: {
-    siteUrl: "https://cookieandcrumb.graydragon2.workers.dev",
+    siteUrl: "",
   },
 
   // ---- Swenson Digital credit ---------------------------------------------

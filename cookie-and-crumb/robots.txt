@@ -1,10 +1,8 @@
-# Points at the interim Cloudflare Workers URL — Rachel doesn't have her
-# own domain yet. Once she registers one, update this, sitemap.xml, every
-# page's canonical/og:url/JSON-LD url, and CONFIG.seo.siteUrl in config.js
-# (this file can't pull from config.js automatically — search engines read
-# it directly).
+# No Sitemap line and no domain-specific rules — Rachel doesn't have her own
+# domain yet, so there's nothing to point search engines at that's worth
+# indexing as canonical. Add a "Sitemap: https://<realdomain>/sitemap.xml"
+# line here once she registers one (and restore sitemap.xml — see the note
+# left in that file).
 
 User-agent: *
 Allow: /
-
-Sitemap: https://cookieandcrumb.graydragon2.workers.dev/sitemap.xml
